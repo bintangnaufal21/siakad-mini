@@ -44,11 +44,52 @@
               </p>
             </a>
           </li>
+           <!---->
           <li class="nav-item">
             <a href="data-mahasiswa" class="nav-link">
               <i class="nav-icon fas fa-table"></i>
               <p>
                 Data Mahasiswa
+                <span class="badge badge-info right">2</span>
+              </p>
+            </a>
+          </li>
+           <!---->
+          <li class="nav-item">
+            <a href="data-dosen" class="nav-link">
+              <i class="nav-icon fas fa-table"></i>
+              <p>
+                Data Dosen
+                <span class="badge badge-info right">2</span>
+              </p>
+            </a>
+          </li>
+          <!---->
+          <li class="nav-item">
+            <a href="data-mata-kuliah" class="nav-link">
+              <i class="nav-icon fas fa-table"></i>
+              <p>
+                Data Mata Kuliah
+                <span class="badge badge-info right">2</span>
+              </p>
+            </a>
+          </li>
+          <!---->
+          <li class="nav-item">
+            <a href="data-jadwal-kuliah" class="nav-link">
+              <i class="nav-icon fas fa-table"></i>
+              <p>
+                Data Jadwal Kuliah
+                <span class="badge badge-info right">2</span>
+              </p>
+            </a>
+          </li>
+          <!---->
+           <li class="nav-item">
+            <a href="data-nilai-mahasiswa" class="nav-link">
+              <i class="nav-icon fas fa-table"></i>
+              <p>
+                Data Nilai Mahasiswa
                 <span class="badge badge-info right">2</span>
               </p>
             </a>
